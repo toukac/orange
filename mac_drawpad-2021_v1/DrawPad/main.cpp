@@ -1,6 +1,6 @@
 #include "DrawPad.hpp"
 #include <math.h>
-
+#drawpadで形を描くやつ
 void DrawMain()
 {
     Clear(kColorBlack);
